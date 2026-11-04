@@ -1,0 +1,29 @@
+{
+  "objective": "Complete traceable review with retained uncertainty, not proof of perfect translations",
+  "reviewed": 278293,
+  "nonoverlapping_partitions": 492,
+  "model": "gpt-6-luna",
+  "accepted_changes": 3111,
+  "uncertain_retained": 25638,
+  "deferred_retained": 660,
+  "second_pass_results_validated": {
+    "uncertain": 583,
+    "correct": 384,
+    "corrected": 133
+  },
+  "unit_tests_passed": 41,
+  "numeric_prefix_conflicts": 0,
+  "cyrillic_target_values": 0,
+  "stardict_exact_match_entries": 278293,
+  "checks": "All assertions passed; no pending approval decisions; uncertain/deferred baseline values retained",
+  "sha256": {
+    "slo_ser.json": "a90cc725f3066c9ea251970dd2b23b68c4a60d4d4bf939ae43d1efa8cd21d4d4",
+    "stardict_slo_ser.idx": "03fa3793d8956fa153fe7c8df6da38e785d2910320eb86da8055d06487226aff",
+    "stardict_slo_ser.dict": "c5c5a5bdc18eb8f8767f71785faadab0007fbd126c502db4eb82b75a9ac624c2",
+    "stardict_slo_ser.ifo": "d4f0e326fb8ded42e7d360ee8c4990789d8c6fefa65479e642894e0964dc4337",
+    "serbian_review/baseline.json": "a382d13d9115a474fb85ae756eefbca916ef6d3d7335d5d6755322cfa89b2c3b",
+    "serbian_review/provenance.json": "2018853ef80973b18654e207fa432a7cfcd6dff43da431d8cc96f3cba0cba5d0",
+    "serbian_review/decisions.json": "b3ffdae5993336b8877a508f09c38804ac0c5c318738fc26bc5b0be90ee4b66d",
+    "serbian_review/merge_report.json": "054f433c40293b166282837e0b9271b560a77185fdc98435ca3675958aa68a7e"
+  }
+}

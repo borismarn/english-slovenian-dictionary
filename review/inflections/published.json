@@ -1,0 +1,62 @@
+{
+  "layers": [
+    {
+      "values_path": "review/inflections/import_001/published_forms.json",
+      "values_sha256": "0fd14dde214a640f20ca63e6ba714f0bacb016e76119737cffe4925e935ead3b",
+      "manifest_path": "review/inflections/import_001/manifest.json",
+      "manifest_sha256": "0ac06879e186ac83ccc221d2aed0fd2a83641733f993a5448f73ae24f9436fc1",
+      "count": 212992,
+      "source_attribution": {
+        "srLex_author": "Nikola Ljubešić",
+        "srLex_version": "1.3",
+        "srLex_url": "https://www.clarin.si/repository/xmlui/handle/11356/1233",
+        "srLex_license": "CC BY-SA 4.0",
+        "srLex_publisher_MD5": "68507adedfa0d45f4a88242c6d2f7e43",
+        "Slovenian_tag_specification": "https://nl.ijs.si/ME/V6/msd/html/msd-sl.html"
+      }
+    },
+    {
+      "values_path": "review/inflections/import_002/published_forms.json",
+      "values_sha256": "724ab2e89a62df40a7e1009557c5d116eedd6295b20a285662937479a351a08c",
+      "manifest_path": "review/inflections/import_002/manifest.json",
+      "manifest_sha256": "2025252a7a6a5db0d42dfec324ee0f175681b58488199a117ff77fa937b8a797",
+      "count": 6820,
+      "source_attribution": {
+        "srLex_author": "Nikola Ljubešić",
+        "srLex_version": "1.3",
+        "srLex_url": "https://www.clarin.si/repository/xmlui/handle/11356/1233",
+        "srLex_license": "CC BY-SA 4.0",
+        "srLex_publisher_MD5": "68507adedfa0d45f4a88242c6d2f7e43",
+        "Slovenian_tag_specification": "https://nl.ijs.si/ME/V6/msd/html/msd-sl.html"
+      }
+    },
+    {
+      "values_path": "review/inflections/import_003/published_forms.json",
+      "values_sha256": "18d970b40d0dccc20002f16fbc4e2bb462e9dca77d9f528fe054777357a62b38",
+      "manifest_path": "review/inflections/import_003/manifest.json",
+      "manifest_sha256": "f6f56cca4b05eece3c82febd4e2be50e026daec4c735528c9a13f2cb13bb0714",
+      "count": 657623,
+      "method": "agent_batch_results",
+      "Slovenian_resource": {
+        "url": "https://www.clarin.si/repository/xmlui/handle/11356/2080",
+        "version": "3.1",
+        "license": "CC BY-SA 4.0",
+        "archive_sha256": "e53727a06b7b3a19b53637475bb111476a6746fe31b6bc8378a497d933c2398c"
+      }
+    },
+    {
+      "values_path": "review/inflections/import_004/published_forms.json",
+      "values_sha256": "b0adcc69ff0e07a1312dca3de57ebf6f1517ea51604201db675549022ec83575",
+      "manifest_path": "review/inflections/import_004/manifest.json",
+      "manifest_sha256": "dea350dd28d488e8f3bf220e2a3ce869cb13b6d2912e79a163d743cf15627723",
+      "count": 41850,
+      "method": "agent_batch_results",
+      "Slovenian_resource": {
+        "url": "https://www.clarin.si/repository/xmlui/handle/11356/2080",
+        "version": "3.1",
+        "license": "CC BY-SA 4.0",
+        "archive_sha256": "e53727a06b7b3a19b53637475bb111476a6746fe31b6bc8378a497d933c2398c"
+      }
+    }
+  ]
+}

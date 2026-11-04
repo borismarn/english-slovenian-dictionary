@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-11-03T09:10:34.680774+00:00",
+  "entries": 333952,
+  "updated": 841,
+  "remaining": 435,
+  "agents_spawned": 0,
+  "confirmed_updated": 586,
+  "unconfirmed_updated": 255,
+  "dictionary_sha256": "9222cf7c01c5dbba96dca192d53719c92f2dcfe5d4ffaf4dc9c051cd343b89b7",
+  "keys_and_metadata_preserved": true,
+  "unrelated_values_preserved": true,
+  "all_patches_matched": true,
+  "stardict_full_match": true,
+  "tests_passed": 24,
+  "all_resolved": false,
+  "semantic_review_complete": false
+}

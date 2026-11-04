@@ -1,0 +1,203 @@
+{
+  "created_at": "2026-10-30T13:59:51.943342+00:00",
+  "count": 212992,
+  "shards": [
+    {
+      "shard": 0,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_00.json",
+      "sha256": "ae9843f3e942e91826269ab4a85b59f33f6cdf70a7100a7a60ae2a3d7d2c409c",
+      "count": 7100
+    },
+    {
+      "shard": 1,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_01.json",
+      "sha256": "b5d5d933926782638926077b01fd2d976134bfa0c04cf5fdb164742f916ce8be",
+      "count": 7100
+    },
+    {
+      "shard": 2,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_02.json",
+      "sha256": "d7167d6eccfd2bd97b50835cc3edf6f4eb864625491acef583093ffbc0b318b1",
+      "count": 7100
+    },
+    {
+      "shard": 3,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_03.json",
+      "sha256": "796238585d75a6cace3d4d65787993c9cbda2a0c3260c616ec79c3e0405bae63",
+      "count": 7100
+    },
+    {
+      "shard": 4,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_04.json",
+      "sha256": "cec694e63a7d1e2b373efdc657e0558e7ba9de17b65e17e9dbec9c06babf4e1f",
+      "count": 7100
+    },
+    {
+      "shard": 5,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_05.json",
+      "sha256": "8aab26adb17306ddf531f071738745802ed669783a6f73f1c31b4c42ede32ee0",
+      "count": 7100
+    },
+    {
+      "shard": 6,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_06.json",
+      "sha256": "b0d5f6d74b4579fcb71dcbaa5a13ec52fe207fdc77f132963017e5da6fad7244",
+      "count": 7100
+    },
+    {
+      "shard": 7,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_07.json",
+      "sha256": "d6beb142048cb2efcab3b331ad182caba171196e53bf503c507d5f725d4e2ba8",
+      "count": 7100
+    },
+    {
+      "shard": 8,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_08.json",
+      "sha256": "e219bf8bc249b4cfa7f171eb67a79b0938ce2f481bf0bac3a3b1c45502a8855f",
+      "count": 7100
+    },
+    {
+      "shard": 9,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_09.json",
+      "sha256": "ba78ff46d9ef0ff74fc43553f8e11e64c21dedadeba9ed66f43794e73cec615a",
+      "count": 7100
+    },
+    {
+      "shard": 10,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_10.json",
+      "sha256": "22aec292b6eda13a30ea876fdf3693111b8d77b0a95f1255a6cce44d6817def5",
+      "count": 7100
+    },
+    {
+      "shard": 11,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_11.json",
+      "sha256": "b86075a269ceace81d1d5c8a123113f973e3bb1582553c2be38b3c7997b6b213",
+      "count": 7100
+    },
+    {
+      "shard": 12,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_12.json",
+      "sha256": "af598010dacbe5f2c7f1d6876009e39186b733364679463e4d315a8d6f67c1ea",
+      "count": 7100
+    },
+    {
+      "shard": 13,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_13.json",
+      "sha256": "33e5ecfa11487112e9f2c5f7877bb854a320c075c92df56a51185964dc2533f5",
+      "count": 7100
+    },
+    {
+      "shard": 14,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_14.json",
+      "sha256": "0f4bf64ee2b2721b487531e440d06e386392daa17aa5c7248750409d1ab9fd28",
+      "count": 7100
+    },
+    {
+      "shard": 15,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_15.json",
+      "sha256": "bd0fe494b3f2ae852ede23bdb406b9bf43a5b8e101a9446c3df89bc8f9546875",
+      "count": 7100
+    },
+    {
+      "shard": 16,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_16.json",
+      "sha256": "603cf6269c2d4af61de1bd3711b6806e4c54eb234123dfbddf7a1d44ce7cab00",
+      "count": 7100
+    },
+    {
+      "shard": 17,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_17.json",
+      "sha256": "a2ac82ea1a75dd10959eaeb899aed5ca58e3d622d879098a6e9c16140d6cd14f",
+      "count": 7100
+    },
+    {
+      "shard": 18,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_18.json",
+      "sha256": "adc70a00245bc4cf6880d53493dbd2ce910addf3907a7a313ba7d066652888d8",
+      "count": 7100
+    },
+    {
+      "shard": 19,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_19.json",
+      "sha256": "7f098a25abd76e2e0c85440c84b90ca19c962ece6872839dd14e6e343ca38002",
+      "count": 7100
+    },
+    {
+      "shard": 20,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_20.json",
+      "sha256": "e48fcf024073927cd9b2baae52f41b594e8d9ac2309b6eb7b7be1c5101a964b6",
+      "count": 7100
+    },
+    {
+      "shard": 21,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_21.json",
+      "sha256": "601a3ca582d67e697ab65331c0c06ed91f87f3eb41102c67d1968f94cac88943",
+      "count": 7100
+    },
+    {
+      "shard": 22,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_22.json",
+      "sha256": "720d3e3eaff9ad803284d400dec6e71d0bfad2627e8ad3e57cd9be4f1158adb8",
+      "count": 7099
+    },
+    {
+      "shard": 23,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_23.json",
+      "sha256": "2f043bcb948a66bf947942d9dbf23f2dbc03cd2f2c150e99e600e5d96b0161e1",
+      "count": 7099
+    },
+    {
+      "shard": 24,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_24.json",
+      "sha256": "0bdc721a6a66cdc2726587b38823a06a179a31192a5b701f365fd4da7c40de1d",
+      "count": 7099
+    },
+    {
+      "shard": 25,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_25.json",
+      "sha256": "ac0be74969bcc25df8905bfa9dec78a94d339dd9a6b7f2441ef701466fb1fb82",
+      "count": 7099
+    },
+    {
+      "shard": 26,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_26.json",
+      "sha256": "4565c7a8a5e9c4f6435d7e9a34ddb94332444ada723250ee54859b485cd10373",
+      "count": 7099
+    },
+    {
+      "shard": 27,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_27.json",
+      "sha256": "48de61add42936ffbe5ae5c4d83d5e9e969314f28048c62e8f25a5aabb0fbe57",
+      "count": 7099
+    },
+    {
+      "shard": 28,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_28.json",
+      "sha256": "f9adf919dffe4ae3d7c3fe8379915b3d52f9c1ce4da763620bcc31b795792038",
+      "count": 7099
+    },
+    {
+      "shard": 29,
+      "path": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/inputs/shard_29.json",
+      "sha256": "1daf0445dc9dbcea8d029dcb9410e51b887d73e37842f46a2403f613c2358083",
+      "count": 7099
+    }
+  ],
+  "dictionary": "/Users/borismarn/git/dict/english-slovenian-dictionary/slo_ser.json",
+  "baseline": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/import_001/dictionary_baseline.json",
+  "baseline_sha256": "8d922ba4a116e454521e12e0ec9221959c05d74a1c54242fb12219c30d895b58",
+  "inventory_summary": "/Users/borismarn/git/dict/english-slovenian-dictionary/inflection_inventory/run_001/automation_summary.json",
+  "inventory_summary_sha256": "ea43c40ea2ecc4172f28dd021e3849c7e5b9c3ed10cdb33d8170d0fc55a672f7",
+  "source_attribution": {
+    "srLex_author": "Nikola Ljubešić",
+    "srLex_version": "1.3",
+    "srLex_url": "https://www.clarin.si/repository/xmlui/handle/11356/1233",
+    "srLex_license": "CC BY-SA 4.0",
+    "srLex_publisher_MD5": "68507adedfa0d45f4a88242c6d2f7e43",
+    "Slovenian_tag_specification": "https://nl.ijs.si/ME/V6/msd/html/msd-sl.html"
+  },
+  "user_authorized": true,
+  "overwrite_existing": false,
+  "variant_separator": ", ",
+  "semantic_translation_or_review_required": false
+}

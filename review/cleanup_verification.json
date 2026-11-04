@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-11-03T09:24:30.025498+00:00",
+  "dictionaries_and_exports_unchanged": true,
+  "source_data_unchanged": true,
+  "inflection_provenance_verified": true,
+  "stardict_exact_match_entries": {
+    "eng-slo": 333952,
+    "slo-ser": 554748
+  },
+  "unit_tests_passed": 12,
+  "root_scripts": 0,
+  "utility_scripts": 1,
+  "test_modules": 1,
+  "archive_verified": true,
+  "archive_sha256": "82b4b31b8a83c0b06fad95723ac961190d19c9d27462a43c164f2e3248529171",
+  "archived_paths": 142779,
+  "removed_working_bytes": 6120918522,
+  "pending_english_entries": 435,
+  "protected_schemik_entries": 180
+}

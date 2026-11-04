@@ -1,0 +1,4 @@
+# Byte offsets in StarDict exports must not be changed by text conversion or merging.
+*.dict binary
+*.idx binary
+*.ifo text eol=lf

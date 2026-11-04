@@ -1,0 +1,23 @@
+{
+  "count": 6820,
+  "remaining_spellings": 889005,
+  "remaining_lemmas": 121745,
+  "missing_base_spellings": 6278,
+  "baseline_sha256": "608d543d93a15d89cc62a70584078344057213a21d8d244d791edc8d61d3980c",
+  "inventory_sha256": "847fc11d95e89f04045c3a0b4f6e857575c11841359bf72423dc9ffbe3a0af28",
+  "values_sha256": "724ab2e89a62df40a7e1009557c5d116eedd6295b20a285662937479a351a08c",
+  "source_attribution": {
+    "srLex_author": "Nikola Ljubešić",
+    "srLex_version": "1.3",
+    "srLex_url": "https://www.clarin.si/repository/xmlui/handle/11356/1233",
+    "srLex_license": "CC BY-SA 4.0",
+    "srLex_publisher_MD5": "68507adedfa0d45f4a88242c6d2f7e43",
+    "Slovenian_tag_specification": "https://nl.ijs.si/ME/V6/msd/html/msd-sl.html"
+  },
+  "Slovenian_resource": {
+    "url": "https://www.clarin.si/repository/xmlui/handle/11356/2080",
+    "version": "3.1",
+    "license": "CC BY-SA 4.0",
+    "archive_sha256": "e53727a06b7b3a19b53637475bb111476a6746fe31b6bc8378a497d933c2398c"
+  }
+}
